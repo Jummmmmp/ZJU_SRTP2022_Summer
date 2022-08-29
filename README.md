@@ -1,6 +1,5 @@
 # ZJU_SRTP2022_Summer
 TZY/ZJQ/LSR/ZQ‘s SRTP Project
-LSR：试试我可以push吗
 
 # How to open
 ```
