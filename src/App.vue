@@ -15,7 +15,7 @@ import HelloWorld from './components/HelloWorld.vue'
     </a>
   </div> -->
   <!--HelloWorld模块包含了正文-->
-    <HelloWorld msg="云链知坊a" />
+    <HelloWorld msg="云链知坊" />
 </template>
 
 <style scoped>
